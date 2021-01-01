@@ -1,9 +1,10 @@
 {
+	"parent": "block/cube_all",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "resources/assets/wersiara/textures/block",
-		"particle": "resources/assets/wersiara/textures/block"
+		"0": "wersiara:blocks/crystal_block",
+		"particle": "wersiara:blocks/crystal_block"
 	},
 	"elements": [
 		{

@@ -20,7 +20,7 @@ public class ItemBase extends Item implements IHasModel {
     }
     public void registerModels(){
 
-        WersiaraMain.proxy.registerItemRenderer(this, 0 "inventory");
+        WersiaraMain.proxy.registerItemRenderer(this, 0, "inventory");
 
     }
 

@@ -1,7 +1,7 @@
-package fr.zom.wersiara.init;
+package fr.zom.wersiara.old;
 
 import com.google.common.collect.Lists;
-import fr.zom.wersiara.items.WersiaraBlock;
+import fr.zom.wersiara.items.Crystal_block;
 import fr.zom.wersiara.utils.References;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -29,7 +29,7 @@ public class ModBlocks {
 
         blocks = Lists.newArrayList();
 
-        Crystal_Block = new WersiaraBlock("Crystal_Block", Material.GLASS, 5.0f,1.200f,1, "pickaxe", false);
+        Crystal_Block = new Crystal_block("Crystal_Block", Material.GLASS, 5.0f,1.200f,1, "pickaxe", false);
 
     }
 

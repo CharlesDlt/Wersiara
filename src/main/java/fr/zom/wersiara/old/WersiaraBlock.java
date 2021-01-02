@@ -1,10 +1,14 @@
-package fr.zom.wersiara.items;
+package fr.zom.wersiara.old;
 
-import fr.zom.wersiara.init.ModBlocks;
+import fr.zom.wersiara.old.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
 public class WersiaraBlock extends Block {
+
+    public WersiaraBlock(Material materialIn) {
+        super(materialIn);
+    }
 
     public WersiaraBlock(String name, Material materialIn) {
         super(materialIn);
@@ -31,8 +35,6 @@ public class WersiaraBlock extends Block {
         // 3 -> diams
 
         //type = pioche, hache, etc ...
-
-
 
     }
 

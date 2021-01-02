@@ -1,6 +1,6 @@
 package fr.zom.wersiara;
 
-import fr.zom.wersiara.event.RegisteringEvent;
+import fr.zom.wersiara.old.RegisteringEvent;
 import fr.zom.wersiara.proxy.CommonProxy;
 import fr.zom.wersiara.utils.References;
 import net.minecraftforge.common.MinecraftForge;

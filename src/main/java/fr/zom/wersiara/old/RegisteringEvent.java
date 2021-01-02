@@ -1,7 +1,5 @@
-package fr.zom.wersiara.event;
+package fr.zom.wersiara.old;
 
-import fr.zom.wersiara.init.ModBlocks;
-import fr.zom.wersiara.init.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;

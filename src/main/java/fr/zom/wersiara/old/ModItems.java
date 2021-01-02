@@ -1,11 +1,9 @@
-package fr.zom.wersiara.init;
+package fr.zom.wersiara.old;
 
 import com.google.common.collect.Lists;
-import fr.zom.wersiara.items.WersiaraItem;
 import fr.zom.wersiara.utils.References;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
-import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.client.model.ModelLoader;
 import net.minecraftforge.fml.common.Mod;

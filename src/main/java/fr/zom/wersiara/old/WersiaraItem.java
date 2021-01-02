@@ -1,6 +1,6 @@
-package fr.zom.wersiara.items;
+package fr.zom.wersiara.old;
 
-import fr.zom.wersiara.init.ModItems;
+import fr.zom.wersiara.old.ModItems;
 import net.minecraft.item.Item;
 
 public class WersiaraItem extends Item {
